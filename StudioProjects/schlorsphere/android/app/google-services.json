@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708801876860",
+    "project_id": "scholorsphere",
+    "storage_bucket": "scholorsphere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708801876860:android:cc3d29b3ab3bb9a6080af9",
+        "android_client_info": {
+          "package_name": "com.example.scholorsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz-MM-Wf2yMXAvBARr4dKcrB2UGaJQ0ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
