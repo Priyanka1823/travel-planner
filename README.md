@@ -18,12 +18,7 @@
 
 <div>
   ## 🛠️ Technologies Used<br/>
-  - React Native
-  - TypeScript
-  - Gemini
-  - Firebase
-  - Google Maps API
-  - Expo
+  React Native, TypeScript, Gemini, Firebase, Google Maps API, Expo
 </div>
 <br/><br/>
 
